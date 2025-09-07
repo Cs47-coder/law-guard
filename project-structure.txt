@@ -1,0 +1,32 @@
+.
+├── src
+│   ├── API
+│   │   └── case.tsx
+│   ├── components
+│   │   ├── ChatInput.tsx
+│   │   ├── ChatMessage.tsx
+│   │   └── Sidebar.tsx
+│   ├── pages
+│   │   └── Chat.tsx
+│   ├── utils
+│   │   ├── fetchHelpers.ts
+│   │   └── next-env.d.ts
+│   ├── App.tsx
+│   ├── casedata.tsx
+│   ├── global.d.ts
+│   ├── index.css
+│   ├── main.tsx
+│   └── vite-env.d.ts
+├── eslint.config.js
+├── index.html
+├── package.json
+├── package-lock.json
+├── postcss.config.js
+├── project-structure.txt
+├── tailwind.config.js
+├── tsconfig.app.json
+├── tsconfig.json
+├── tsconfig.node.json
+└── vite.config.ts
+
+5 directories, 24 files
